@@ -1,0 +1,10 @@
+# Build output and packaged artifacts
+target/
+dist/
+
+# IDE configuration
+.idea/
+*.iml
+
+# Local helper document; not part of the Java library
+ASP_NET_ASPIRE_LIBRARY_PROMPT.txt
